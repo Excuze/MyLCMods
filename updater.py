@@ -26,7 +26,7 @@ import zipfile
 from pathlib import Path
 
 # ---- EDIT THESE -------------------------------------------------------------
-MANIFEST_URL = "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/manifest.json"
+MANIFEST_URL = "https://raw.githubusercontent.com/Excuze/MyLCMods/main/manifest.json"
 GAME_FOLDER = "LethalCompany"  # folder name under r2modmanPlus-local
 # -----------------------------------------------------------------------------
 
