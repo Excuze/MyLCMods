@@ -1,3 +1,28 @@
 {
-  "mods": {}
+  "mods": {
+    "CustomSounds": {
+      "version": "1.0.0",
+      "url": "https://github.com/Excuze/MyLCMods/releases/download/CustomSounds-v1.0.0/CustomSounds.zip",
+      "sha256": "a3172429b3392828e17879d9a4aaa5b4553e06417f1c34cdae68deeebdb3afed",
+      "content": "856103094903d1ea2722d4bf9df3dd13a3ec45c853acbfe456a72b4d028d3f64"
+    },
+    "Hamunii.ExampleEnemy-DEV": {
+      "version": "1.0.0",
+      "url": "https://github.com/Excuze/MyLCMods/releases/download/Hamunii.ExampleEnemy-DEV-v1.0.0/Hamunii.ExampleEnemy-DEV.zip",
+      "sha256": "bad79a6820db64f908d74b00de493a98129797b89883aea6489d9f257caf2d44",
+      "content": "f06d016fb92b7983e8c2064418d64b76989ae612b12b789b0ff90072f1aa646d"
+    },
+    "LethalPaintings": {
+      "version": "1.0.0",
+      "url": "https://github.com/Excuze/MyLCMods/releases/download/LethalPaintings-v1.0.0/LethalPaintings.zip",
+      "sha256": "d704146add7f1a78ec93d880221ee0ba56ece7158c43f6208b5d9bd6f932a487",
+      "content": "b4756e37037f24644a29ca0d3a65516e9355573e0f2295007f738065f5677ef9"
+    },
+    "LethalPosters": {
+      "version": "1.0.0",
+      "url": "https://github.com/Excuze/MyLCMods/releases/download/LethalPosters-v1.0.0/LethalPosters.zip",
+      "sha256": "bd3c4a1aa691e7f2f2b5d07ade9794a059a8a45dc0d576ae742b028af45b5492",
+      "content": "87b627da3bc73087be846bc39b144b66dd68a881bc50e53915efe0f3b82c1a81"
+    }
+  }
 }
